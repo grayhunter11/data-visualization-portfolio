@@ -9,3 +9,7 @@ course name, the date you completed it, https://public.tableau.com/views/PowerBI
 the course name, the date you completed it, https://public.tableau.com/app/profile/martin.gray.hunter/viz/PowerBITrainingCertifications/PowerBIStory, and your Part 2 text.
 
 the course name, the date you completed it, https://public.tableau.com/app/profile/martin.gray.hunter/viz/PowerBITrainingCertifications/PowerBIStory, and your Part 3 text.
+
+
+the assignment name, the business question in one sentence, [Card Portfolio Review – Contactless Readiness](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)k, and one thing you would change if you did it again 
+
