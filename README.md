@@ -2,6 +2,39 @@
 
 **2.	Featured Work. Your three revised pieces, each written as a short case study (example below).**
 
+### Add temporary call-center staff for Q4: 1,661 cards expire in six months
+
+**Client:** Bear Down Bank · **For:** Contact Center Manager · **Decision:** whether to add temporary staff for the card-reissue wave
+
+**Recommendation:** Bring in temporary staff for Q4 2026 and Q1 2027, when 1,661 cards expire against a usual 232 to 407 a quarter.
+
+**Built with:** Tableau (relationships, parameters, navigation buttons), Excel
+
+[[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/martin.gray.hunter/viz/CardGrowthAnalysisWildcatRewardsOffer/ExploratoryDashboard)]
+
+
+### Add temporary call-center staff for Q4: 1,661 cards expire in six months
+
+**Client:** Bear Down Bank · **For:** Contact Center Manager · **Decision:** whether to add temporary staff for the card-reissue wave
+
+**Recommendation:** Bring in temporary staff for Q4 2026 and Q1 2027, when 1,661 cards expire against a usual 232 to 407 a quarter.
+
+**Built with:** Tableau (relationships, parameters, navigation buttons), Excel
+
+[View the interactive dashboard on Tableau Public](paste your Tableau Public link)
+
+
+### Add temporary call-center staff for Q4: 1,661 cards expire in six months
+
+**Client:** Bear Down Bank · **For:** Contact Center Manager · **Decision:** whether to add temporary staff for the card-reissue wave
+
+**Recommendation:** Bring in temporary staff for Q4 2026 and Q1 2027, when 1,661 cards expire against a usual 232 to 407 a quarter.
+
+**Built with:** Tableau (relationships, parameters, navigation buttons), Excel
+
+[View the interactive dashboard on Tableau Public](paste your Tableau Public link)
+
+
 4.	More Work. One line each for your other Tableau pieces, plus your Adobe Express work sample and pitch.
 5.	
 6.	Training and Credentials. Your DataCamp Power BI courses and your Adobe trainings and badges, linked to their folders.
