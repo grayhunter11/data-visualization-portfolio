@@ -1,7 +1,7 @@
-****1.	About Me. Your name, the role you’re aiming for, a two- or three-sentence bio, and links to Tableau Public and LinkedIn.
+****1.	About Me. Your name, the role you’re aiming for, a two- or three-sentence bio, and links to Tableau Public and LinkedIn.**
 
-2.	Featured Work. Your three revised pieces, each written as a short case study (example below).
-3.	
+**2.	Featured Work. Your three revised pieces, each written as a short case study (example below).**
+
 4.	More Work. One line each for your other Tableau pieces, plus your Adobe Express work sample and pitch.
 5.	
 6.	Training and Credentials. Your DataCamp Power BI courses and your Adobe trainings and badges, linked to their folders.
